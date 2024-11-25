@@ -14784,7 +14784,10 @@ ul.nav.tab-style--1 li a.active::before {
 .list-style--1.text-white li {
   color: #ffffff;
 }
-
+.blog-img {
+  height: 535px;
+  object-fit: cover;
+}
 /*----------------------
     List Style  
 -----------------------*/
