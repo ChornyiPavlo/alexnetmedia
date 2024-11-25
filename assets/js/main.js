@@ -360,7 +360,19 @@ Index All JS
     };
     onePageNav();
 
-
+    jQuery(document).ready(function($) {
+        var form = document.getElementById("contactForm");
+        if (form) {
+            form.addEventListener("submit", function (event) {
+                event.preventDefault();
+                document.getElementById("successMessage").style.display = "block";
+                document.getElementById("contactForm").reset();
+                setTimeout(() => {
+                    document.getElementById("successMessage").style.display = "none";
+                }, 5000);
+            });
+        }
+    });
 
 })(jQuery)
 
