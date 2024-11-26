@@ -16565,6 +16565,9 @@ BLog Details Styles
     padding: 0;
   }
 }
+.logo {
+  color: #fff;!important;
+}
 .prv-banner-wrapper .inner .logo img {
   max-height: 70px;
 }
