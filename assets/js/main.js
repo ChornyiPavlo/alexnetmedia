@@ -1,5 +1,5 @@
 /*------------------------------------------------
-Trydo Html5 Creative Ahency Template
+Alex Net Media Html5 Creative Ahency Template
 All Main Js Here  
 
 Index All JS 

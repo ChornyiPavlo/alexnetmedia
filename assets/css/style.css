@@ -1,6 +1,6 @@
 /*********************************************************************************
 
-	Template Name: Trydo Html Creative Agency Template
+	Template Name: Alex Net Media Html Creative Agency Template
 	Note: This is style css.
 
 **********************************************************************************/
@@ -11582,7 +11582,7 @@ Footer Styles
   margin: 0;
   list-style: none;
 }
-.footer-default .footer-right .footer-widget ul.ft-link li a {
+.footer-default .footer-right .footer-widget ul.ft-link li a, .footer-default .footer-right .footer-widget ul.ft-link li {
   color: #c6c9d8;
   font-size: 16px;
   opacity: 0.75;
@@ -14883,6 +14883,7 @@ ul.list-style li + li {
   font-size: 18px;
   margin-bottom: 0;
   color: rgba(29, 29, 36, 0.75);
+  height: 60px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .rn-address .inner p {
@@ -16567,6 +16568,8 @@ BLog Details Styles
 }
 .logo {
   color: #fff;!important;
+  font-size: 35px;
+  margin-bottom: 0;
 }
 .prv-banner-wrapper .inner .logo img {
   max-height: 70px;
